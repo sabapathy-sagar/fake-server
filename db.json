@@ -5,6 +5,10 @@
         "title": "hello"
       }
     ],
+    "reminders": {
+        "selectedDay": "",
+        "reminders": []
+    },
     "profile": {
       "name": "typicode"
     }
