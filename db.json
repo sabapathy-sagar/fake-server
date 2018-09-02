@@ -5,10 +5,13 @@
         "title": "hello"
       }
     ],
-    "reminders": {
-        "selectedDay": "",
-        "reminders": []
-    },
+    "reminders": [
+        {
+            "id": 1,
+            "selectedDay": "",
+            "reminders": []
+        }
+    ],
     "profile": {
       "name": "typicode"
     }
