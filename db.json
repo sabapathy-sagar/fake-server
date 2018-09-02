@@ -1,14 +1,8 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
     "reminders": [
         {
             "id": 1,
-            "reminders": []
+            "reminders": ["collect keys"]
         }
     ],
     "profile": {
