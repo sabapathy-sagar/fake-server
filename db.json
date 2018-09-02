@@ -2,7 +2,7 @@
     "reminders": [
         {
             "id": 1,
-            "reminders": ["collect keys"]
+            "reminders": []
         }
     ],
     "profile": {
